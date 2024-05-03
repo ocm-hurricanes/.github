@@ -12,4 +12,4 @@ The NOAA's Historical Hurricane Tracks website offers an interactive platform th
 
 - [Application](https://coast.noaa.gov/hurricanes)
 - [Digital Coast Tool Page](https://coast.noaa.gov/digitialcoast/hurricanes)
-- [Code Repository](https://github.com/ocm-test-org/hurricanes)
+- [Code Repository](https://github.com/ocm-hurricanes/hurricanes_frontend)
